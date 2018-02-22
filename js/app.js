@@ -240,7 +240,7 @@ function showMetas(obj) {
             ['4', acumSprint4Tech, acumSprint4Hse]
         ]);
         var options = {
-            width: 1000,
+            width: 760,
             chart: {
                 title: 'ESTUDIANTES QUE SUPERAN EL 70%',
                 subtitle: 'Cantidad de estudiantes con mas de 70% en Tech y Hse',

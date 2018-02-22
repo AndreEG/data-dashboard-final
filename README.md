@@ -6,8 +6,3 @@ El reto consiste en poder ayudar a los Training Managers de Laboratoria para el 
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
-
-## Diagrama de flujo
-
-![image](assets/docs/part1.png)
-![image](assets/docs/part2.png)
